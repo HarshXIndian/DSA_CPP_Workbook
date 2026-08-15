@@ -1,0 +1,2 @@
+This line is write into file by using second method 
+to open files in c++ !

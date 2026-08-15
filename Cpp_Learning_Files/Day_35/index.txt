@@ -1,0 +1,15 @@
+Code With harry's playlist of C++ is already ended !
+we also complete the 1 hour video of love babber on STL !
+And also read and learn STL and c++ from some another yt videos and webpages to understand the topic ,
+and make them easier !
+From now (8/2/24) in occasion of SHIVARATRI we are going to : 
+revise C++ concepts before the end of the month includes the following steps:
+1. Utilize Big lectures of C++ concepts available on YouTube:
+There are numerous resources on YouTube where you can find in-depth lectures on C++ concepts.
+Make the most of these learning materials to strengthen your understanding.
+2.Leverage webpages and test your knowledge: 
+Use webpages related to C++ to learn about various concepts and make sure to test your knowledge 
+through quizzes or practice problems available on those websites.
+3.Build cool and unique projects:
+Applying your knowledge by building projects is an effective way to reinforce your understanding of C++ concepts.
+Try to come up with creative and interesting project ...
